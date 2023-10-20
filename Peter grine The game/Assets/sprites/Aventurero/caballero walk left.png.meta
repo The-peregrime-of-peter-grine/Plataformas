@@ -121,7 +121,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caballero walk left_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3c95203a41ee940be812aeaff1919a
+      internalID: -2144515268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero walk left_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b58d74856d82e4f9fa9676c5bd254d
+      internalID: 1458070434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero walk left_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6aa4dae1b4b4b4692338cfec17b096
+      internalID: 942889779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero walk left_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e017410c9b25449a124ad42d714767
+      internalID: 2065074894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero walk left_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc105cbb2e7564147ae59a66f1a6ed44
+      internalID: 1833406429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero walk left_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af64be0b6999a41b463b31844f3fdb
+      internalID: -1786797862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +258,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      caballero walk left_0: -2144515268
+      caballero walk left_1: 1458070434
+      caballero walk left_2: 942889779
+      caballero walk left_3: 2065074894
+      caballero walk left_4: 1833406429
+      caballero walk left_5: -1786797862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

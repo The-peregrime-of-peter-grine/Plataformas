@@ -121,7 +121,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caballero iddle2_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a28c7ef9da43c646a25dd3b8e0a4b8a
+      internalID: -444647096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2bd8004be4d94bb33f58a9ea65b79
+      internalID: 1273004648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e28d8289e943448a605965593e238f
+      internalID: -1686297866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c06eb1c4c6d64387f06cbb0337519
+      internalID: -2000431979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587548423b06a2b4193e8c6791d4fbe0
+      internalID: 601893766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0fe698b83e5c47b40466863816370
+      internalID: -2035405314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d99fd5faca0274fabaad935c0bf96c
+      internalID: -309906114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243b15337344878429d02d0b42d68f7a
+      internalID: 1520138875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555ef2064f7c4d5479df3925319b0b7c
+      internalID: -469717139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero iddle2_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 17
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3ecdbae2e887a4c9d13d5e3a06b547
+      internalID: 249829825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +342,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      caballero iddle2_0: -444647096
+      caballero iddle2_1: 1273004648
+      caballero iddle2_2: -1686297866
+      caballero iddle2_3: -2000431979
+      caballero iddle2_4: 601893766
+      caballero iddle2_5: -2035405314
+      caballero iddle2_6: -309906114
+      caballero iddle2_7: 1520138875
+      caballero iddle2_8: -469717139
+      caballero iddle2_9: 249829825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
