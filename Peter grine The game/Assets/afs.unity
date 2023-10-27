@@ -548,12 +548,10 @@ MonoBehaviour:
   immuneTimeCnt: 0
   immuneTime: 0.5
   groundLayer:
+    serializedVersion: 2
     m_Bits: 0
   radius: 0.3
   groundRayDist: 0.5
-  rb: {fileID: 0}
-  anim: {fileID: 0}
-  spr: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
