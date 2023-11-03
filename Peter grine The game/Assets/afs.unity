@@ -543,8 +543,8 @@ MonoBehaviour:
   isMoving: 0
   isImmune: 0
   speed: 5
-  jumpForce: 3
-  movHor: 0
+  jumpForce: 7
+  movHor: 1
   immuneTimeCnt: 0
   immuneTime: 0.5
   groundLayer:
