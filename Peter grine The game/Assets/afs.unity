@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 1072753394}
   - component: {fileID: 1072753393}
   m_Layer: 0
-  m_Name: SueloTile1
+  m_Name: ground_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.61, y: 0.58}
   m_EdgeRadius: 0
 --- !u!212 &1072753394
 SpriteRenderer:
@@ -339,8 +339,8 @@ Transform:
   m_GameObject: {fileID: 1072753392}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.415084, y: -4.11411, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -1.9, y: -4.2, z: 0}
+  m_LocalScale: {x: 18.6511, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -360,7 +360,7 @@ GameObject:
   - component: {fileID: 1396539874}
   - component: {fileID: 1396539879}
   m_Layer: 0
-  m_Name: caballero iddle_0
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -520,7 +520,7 @@ Transform:
   m_GameObject: {fileID: 1396539873}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.542269, y: -2.1139703, z: 0}
+  m_LocalPosition: {x: -2.17, y: -2.1139703, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lives: 3
   isGrounded: 0
-  isMooving: 0
+  isMoving: 0
   isImmune: 0
   speed: 5
   jumpForce: 3
@@ -549,7 +549,7 @@ MonoBehaviour:
   immuneTime: 0.5
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   radius: 0.3
   groundRayDist: 0.5
 --- !u!1660057539 &9223372036854775807
