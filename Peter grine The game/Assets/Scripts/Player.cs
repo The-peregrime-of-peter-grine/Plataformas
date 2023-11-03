@@ -54,9 +54,18 @@ public class Player : MonoBehaviour
 
         isMoving = (movHor != 0f);
         isGrounded = Physics2D.CircleCast(transform.position, radius, Vector3.down, groundRayDist, groundLayer);
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        jump();
     }
 
 
+
+    public void jump()
+    {
+       if(!isGrounded) return;
+       rb.velocity = Vector2.up * jumpForce;
+    }
     void FixedUpdate()
     {
         rb.velocity = new Vector2(movHor * speed, rb.velocity.y);
