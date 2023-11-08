@@ -57,6 +57,10 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         jump();
+        anim.SetBool("isMoving", isMoving);
+        anim.SetBool("isGrounded", isGrounded);
+
+
         flip(movHor);
     }
 
@@ -80,5 +84,9 @@ public class Player : MonoBehaviour
             if (_xValue > 0)
             theScale.x = Mathf.Abs(theScale.x);
         transform.localScale = theScale;
+    }
+    private void OnDestroy()
+    {
+        obj = null;
     }
 }
