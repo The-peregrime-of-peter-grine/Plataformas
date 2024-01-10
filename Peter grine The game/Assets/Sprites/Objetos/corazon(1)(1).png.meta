@@ -121,7 +121,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: corazon(1)(1)_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2237e9a4227f5244d994abed1c485cdf
+      internalID: -1517937760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5376081abcc04b6449cc61d8a6865826
+      internalID: 1052184196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71edfc73bc40546bc30b736cbfe780
+      internalID: -646075431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798bd0f73a4f9c94f82750aac9df6e8f
+      internalID: 2050647079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ff63a57c6c434d9fbede0a17d1670
+      internalID: -670028598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e534c3003cb6aec48b66b2364943ab78
+      internalID: -1908947151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b1abcedb757a41b2d900e887ba349
+      internalID: -897798366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d420cfb481c6bf846b20a5974d077d4b
+      internalID: 1984702811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa43f2b06ace83f4aa0ed7c2cc3ee2fb
+      internalID: 1563080035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corazon(1)(1)_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443f1791a34d714db986a3d522a7248
+      internalID: -1763362752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +342,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      corazon(1)(1)_0: -1517937760
+      corazon(1)(1)_1: 1052184196
+      corazon(1)(1)_2: -646075431
+      corazon(1)(1)_3: 2050647079
+      corazon(1)(1)_4: -670028598
+      corazon(1)(1)_5: -1908947151
+      corazon(1)(1)_6: -897798366
+      corazon(1)(1)_7: 1984702811
+      corazon(1)(1)_8: 1563080035
+      corazon(1)(1)_9: -1763362752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

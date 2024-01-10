@@ -121,7 +121,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MONEDAS_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f5c1eb440463418f9266e2fbfa2df
+      internalID: -257466664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONEDAS_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a5992279860fe478d251526a61dd74
+      internalID: -1178172727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONEDAS_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 10
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d618a9bb4c738c49baec337f0986dbb
+      internalID: 606629322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONEDAS_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 10
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ffd559f9e039f4e8e526b1b048b6df
+      internalID: 656213893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONEDAS_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 9
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc35b8e01aa4a7498a772b7adc6ca8c
+      internalID: -1153793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONEDAS_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 9
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8771d56e6654ab4ebcb72eb9872205e
+      internalID: 614542142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +258,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MONEDAS_0: -257466664
+      MONEDAS_1: -1178172727
+      MONEDAS_2: 606629322
+      MONEDAS_3: 656213893
+      MONEDAS_4: -1153793769
+      MONEDAS_5: 614542142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

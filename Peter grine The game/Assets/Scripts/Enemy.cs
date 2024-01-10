@@ -32,7 +32,7 @@ public class Enemy : MonoBehaviour
     {
         //Evitar caer en precipicio
         isGroundFloor = (Physics2D.Raycast(new Vector3(transform.position.x, transform.position.y - floorCheckY, transform.position.z), new Vector3(movHor, 0, 0), frontGroundRayDist, groundLayer));
-       if(isGroundFloor)
+       if(!isGroundFloor)
            movHor = movHor * -1;
         //Choque con la pared
         if(Physics2D.Raycast(transform.position, new Vector3(movHor, 0, 0), frontCheck, groundLayer))
@@ -53,5 +53,21 @@ public class Enemy : MonoBehaviour
     private void getKilled()
     {
         gameObject.SetActive(false);
+    }
+     void OnCollisionEnter2D(Collision2D collision)
+    {
+       if(collision.gameObject.CompareTag("Player"))
+       {
+        //dañar player
+        Debug.Log("Daño a personaje");
+        Player.obj.getDamaged();
+       }
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.CompareTag("Player"))
+        {
+            getKilled();
+        }
     }
 }

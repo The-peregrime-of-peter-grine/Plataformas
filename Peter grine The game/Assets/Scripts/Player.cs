@@ -74,6 +74,7 @@ public class Player : MonoBehaviour
     {
         rb.velocity = new Vector2(movHor * speed, rb.velocity.y);
     }
+   
 
  private void flip(float _xValue)
     {
@@ -86,6 +87,17 @@ public class Player : MonoBehaviour
             theScale.x = Mathf.Abs(theScale.x);
         transform.localScale = theScale;
     }
+
+    public void getDamaged()
+    {
+        lives--;
+        if(lives <= 0)
+        
+            this.gameObject.SetActive(false);
+        
+    }
+
+
     private void OnDestroy()
     {
         obj = null;
