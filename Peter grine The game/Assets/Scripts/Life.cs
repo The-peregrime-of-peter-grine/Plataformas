@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class Life : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+   public int scoreGive  = 30;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   private void OnTriggerEnter2D(Collider2D collision)
+   {
+       if(collision.gameObject.CompareTag("Player"))
+       {
+         Game.obj.addScore(scoreGive);
+          Player.obj.addLive();
+          gameObject.SetActive(false);
+       }
+   }
 }

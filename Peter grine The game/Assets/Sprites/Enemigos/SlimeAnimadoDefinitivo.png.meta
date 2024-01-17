@@ -121,7 +121,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d0bbe5d2ea6e438d2dd4cc407728b
+      internalID: 817097987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b53496ce40b5747929c99a72575e88
+      internalID: 1965205392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4da7de779c354da84f6aa7a8bdab9
+      internalID: 1373081207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7250276091e23b84a873697b5c7dd12e
+      internalID: -856685195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf88f94a771ef74a9e6d483d13798a6
+      internalID: -563086742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_5
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44cd936fb4065449aa6fe5b8ec56fc
+      internalID: -1884337900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_6
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645380c07898d4743b0cfc50aaae347d
+      internalID: 136733476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAnimadoDefinitivo_7
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 0
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fdfc2a34fcf04899f8dd8cded0be6
+      internalID: 166249292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +300,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlimeAnimadoDefinitivo_0: 817097987
+      SlimeAnimadoDefinitivo_1: 1965205392
+      SlimeAnimadoDefinitivo_2: 1373081207
+      SlimeAnimadoDefinitivo_3: -856685195
+      SlimeAnimadoDefinitivo_4: -563086742
+      SlimeAnimadoDefinitivo_5: -1884337900
+      SlimeAnimadoDefinitivo_6: 136733476
+      SlimeAnimadoDefinitivo_7: 166249292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
